@@ -47,5 +47,3 @@ The application provides a minimal and user-friendly interface:
 - Action buttons:
   - **Toggle** – mark task as completed or active
   - **Delete** – remove task from the list
-
-
